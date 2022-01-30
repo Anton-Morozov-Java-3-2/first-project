@@ -1,5 +1,5 @@
 class Practikum {
-    public staric void main(String[] args){
+    public static void main(String[] args){
         return;
     }
 }
